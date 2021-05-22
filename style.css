@@ -134,3 +134,8 @@
   .page:nth-child(odd){
     background-position: right top;
   }
+
+  .imgBackground{
+    width: 30vw;
+    height: 44vw;
+  }
