@@ -1,0 +1,9 @@
+.innerPage {
+  width: 100%;
+}
+
+.innerPage--intro {
+  height: 100%;
+  background-image: url("../img/fondo1.png");
+}
+/*# sourceMappingURL=general.css.map */
