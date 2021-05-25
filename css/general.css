@@ -3,7 +3,50 @@
 }
 
 .innerPage--intro {
+  background-size: cover;
   height: 100%;
   background-image: url("../img/fondo1.png");
+}
+
+.innerPage--page3 {
+  height: 100%;
+  background-size: cover;
+  background-image: url("../img/henriettaFondo1.png");
+}
+
+.innerPage--page4 {
+  height: 100%;
+  background-size: cover;
+  background-image: url("../img/fondoInteract1.jpg");
+}
+
+.innerPage--page5 {
+  height: 100%;
+  background-size: cover;
+  background-image: url("../img/fondoInteract2.jpg");
+}
+
+.innerPage--page6 {
+  height: 100%;
+  background-size: cover;
+  background-image: url("../img/fondo8.png");
+}
+
+.innerPage--page7 {
+  height: 100%;
+  background-size: cover;
+  background-image: url("../img/fondo9.png");
+}
+
+.innerPage--page8 {
+  height: 100%;
+  background-size: contain;
+  background-image: url("../img/fondoInteract3.jpg");
+}
+
+.innerPage--page9 {
+  height: 100%;
+  background-size: cover;
+  background-image: url("../img/fondoInteract4.jpg");
 }
 /*# sourceMappingURL=general.css.map */

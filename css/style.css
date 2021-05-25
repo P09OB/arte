@@ -1,5 +1,11 @@
 @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&display=swap');
 
+@font-face {
+  font-family: 'Motteka';
+  src: url('../Motteka.ttf') format('truetype');
+  font-style: normal;
+  font-weight: normal;
+}
 
 * {
   padding: 0;
@@ -8,6 +14,7 @@
 }
 
 .book {
+
     transition: opacity 0.4s 0.2s;
   }
   p{
@@ -156,24 +163,31 @@
   }
 
   .titles{
-    font-size: 2.8vw;
     width: 100%;
     display: flex;
     justify-content: center;
     padding: 0% 10%;
-    
+    font-family: 'Motteka';
+    text-align: center;
+    padding-top: 50px;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 30px;
+
   }
 
   .text{
-    font-size: 0.95vw;
-    padding: 0% 10%;
     font-family: EB Garamond;
-    margin-top: 2vw;
+font-style: normal;
+font-weight: normal;
+font-size: 10px;
+line-height: 201.69%;
   }
 
   .text__henrietta{
     font-size: 0.95vw;
     padding: 0% 10%;
+
  
   
   }

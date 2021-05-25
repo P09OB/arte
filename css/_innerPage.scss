@@ -2,7 +2,61 @@
     width: 100%;
     
     &--intro{
+        background-size: cover;
         height: 100%;
         background-image: url('../img/fondo1.png');
+    }
+
+    &--page3{
+        height: 100%;
+
+        background-size: cover;
+        background-image: url('../img/henriettaFondo1.png');
+
+    }
+
+    &--page4{
+        height: 100%;
+
+        background-size: cover;
+        background-image: url('../img/fondoInteract1.jpg');
+
+    }
+
+    &--page5{
+        height: 100%;
+
+        background-size: cover;
+        background-image: url('../img/fondoInteract2.jpg');
+
+    }
+    &--page6{
+        height: 100%;
+
+        background-size: cover;
+        background-image: url('../img/fondo8.png');
+
+    }
+    &--page7{
+        height: 100%;
+
+        background-size: cover;
+        background-image: url('../img/fondo9.png');
+
+    }
+    &--page8{
+        height: 100%;
+
+        background-size: contain;
+        background-image: url('../img/fondoInteract3.jpg');
+
+    }
+
+    &--page9{
+        height: 100%;
+
+        background-size: cover;
+        background-image: url('../img/fondoInteract4.jpg');
+
     }
 }
